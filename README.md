@@ -54,3 +54,13 @@ Precios (solo versión desarrolladores)
 Contacto y Soporte
 Incluye soporte básico por correo durante 30 días (solo versión DEV).
 Correo: tonidelahaba@hotmail.com
+
+## 🛒 Comprar StartPoint Register
+
+Si quieres integrar StartPoint Register en tu software, puedes adquirir la versión para desarrolladores aquí:
+
+- **Itch.io:** https://antoniogh66.itch.io  
+- **Payhip:** https://payhip.com/startpoointdevtools  
+
+Incluye soporte básico por correo durante 30 días.
+
